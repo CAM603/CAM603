@@ -1,5 +1,7 @@
 # 👨🏻‍🦰 Hello, my name is Cameron Hawley
-I'm a Full Stack Web Developer, Team Lead and recent graduate of [Lambda School](https://lambdaschool.com/). Coding is my passion. It allows me to be creative, artistic, think critically, problem solve, and provides a continuous pipeline of education and learning.
+I'm a full stack web developer, Team Lead and recent graduate of [Lambda School](https://lambdaschool.com/). Coding is my passion. It allows me to be creative, artistic, think critically, problem solve, and provides a continuous pipeline of education and learning.
+
+Check out my [portfolio](https://camhawley.com)!
 
 ### _I'm currently seeking my first web developer job, but in the meantime..._
 
@@ -14,8 +16,9 @@ I'm a Full Stack Web Developer, Team Lead and recent graduate of [Lambda School]
 ## 📊 Stats
 Add stats to your GitHub [here](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAM603&theme=radical)](https://github.com/CAM603/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAM603&theme=radical&hide=tsql,html)](https://github.com/CAM603/github-readme-stats)
 [![Cameron's github stats](https://github-readme-stats.vercel.app/api?username=CAM603&show_icons=true&theme=radical)](https://github.com/CAM603/github-readme-stats)
+
 ## 🖥 Skills
 Add shields to your GitHub [here](https://shields.io/)
 
