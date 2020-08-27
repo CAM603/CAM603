@@ -5,14 +5,14 @@
   <a href="https://www.linkedin.com/in/cameron-hawley/" target="_blank">LinkedIn</a>
 </p>
 
-<p align="center">I'm a full stack web developer and recent graduate of <a href="https://lambdaschool.com/" target="_blank">Lambda School</a>, currently looking to join a company who needs a passionate developer and employee.</p>
+<p align="center">I'm an avid software engineer who loves creating responsive, accessible and visually appealing websites and developing open sourced projects with the goal of helping other developers. Driven by progression, I am inspired to continuously improve and expand upon my knowledge. I recently graduated from <a href="https://lambdaschool.com/" target="_blank">Lambda School's</a> full stack web development and computer science curriculum and am currently looking to join a company who needs a passionate developer and employee.</p>
 
 ---
 
-### _I'm currently seeking my first web developer job, but in the meantime..._
+### _I'm Currently seeking my first web developer job, but in the meantime..._
 
-- 🔭 I’m currently working on ... building a website for a successful marketing company looking for more exposure
-- 🌱 I’m currently learning ... content management systems 
+- 🔭 I’m working on ... building a website for a successful marketing company looking for more exposure and releasing my first open sourced project
+- 🌱 I’m learning ... Next.js 
 - 🤝 I’m looking to collaborate on ... anything I get the chance to
 - 🤔 I’m looking for help with ... getting my first full time web developer job
 - 💬 Ask me about ... my time at Lambda School
@@ -48,15 +48,12 @@ Add stats to your GitHub [here](https://github.com/anuraghazra/github-readme-sta
 
 ## ⏳ Latest Work
 
-<a href="https://github.com/CAM603/game-of-life">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CAM603&repo=game-of-life&theme=radical" />
-</a>
 <a href="https://github.com/CAM603/cameron-hawley">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CAM603&repo=cameron-hawley&theme=radical" />
 </a>
+<a href="https://github.com/CAM603/game-of-life">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CAM603&repo=game-of-life&theme=radical" />
+</a>
 <a href="https://github.com/CAM603/goals-app">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CAM603&repo=goals-app&theme=radical" />
-</a>
-<a href="https://github.com/CAM603/Calculator">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CAM603&repo=Calculator&theme=radical" />
 </a>
