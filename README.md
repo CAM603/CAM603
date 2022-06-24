@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/cameron-hawley/" target="_blank">LinkedIn</a>
 </p>
 
-<p align="center">I've been an avid software engineer since 2019 when I started my journey at<a href="https://lambdaschool.com/" target="_blank">Lambda School</a>. For a year I spent an amazing 5 days a week coding learning full stack web development. Lambda School revealed my true passion. I've been working as a Software Engineer II at Space Ground System Solutions since 2020.</p>
+<p align="center">I've been an avid software engineer since 2019 when I started my journey at <a href="https://lambdaschool.com/" target="_blank">Lambda School</a>. For a year I spent an amazing 5 days a week coding learning full stack web development. Lambda School revealed my true passion. I've been working as a Software Engineer II at Space Ground System Solutions since 2020.</p>
 
 ---
 
