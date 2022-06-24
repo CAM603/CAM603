@@ -5,22 +5,19 @@
   <a href="https://www.linkedin.com/in/cameron-hawley/" target="_blank">LinkedIn</a>
 </p>
 
-<p align="center">I'm an avid software engineer who loves probelem solving. Whether it's creating responsive, accessible and visually appealing websites or writing robust unit tests, I love what I do. Driven by progression, I'm inspired to continuously improve and expand upon my knowledge. I recently graduated from <a href="https://lambdaschool.com/" target="_blank">Lambda School's</a> full stack web development and computer science curriculum and am currently working as a software engineer at Space Ground System Solutions.</p>
-
-looking to join a company who needs a passionate developer and employee
-and developing open sourced projects with the goal of helping other developers.
+<p align="center">I've been an avid software engineer since 2019 when I started my journey at<a href="https://lambdaschool.com/" target="_blank">Lambda School</a>. For a year I spent an amazing 5 days a week coding learning full stack web development. Lambda School revealed my true passion. I've been working as a Software Engineer II at Space Ground System Solutions since 2020.</p>
 
 ---
 
 ### _Coding at work is fun, but I'm always pushing myself to learn more. Here's what I'm up to..._
 
-- 🔭 I’m working on ... developing an open sourced starter project with the goal of helping other developers streamline the development process.
+- 🔭 I’m working on ... taking Udemy courses.
 - 🌱 I’m learning ... advanced React and JavaScript.
 - 🤝 I’m looking to collaborate on ... personal or open sourced projects, let me know if you need help!
-- 🤔 I’m looking for help with ... learning something new
+- 🤔 I’m looking for help with ... new opportunities.
 - 💬 Ask me about ... my time at Lambda School.
 - 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/cameron-hawley/).
-- ⚡ Fun fact ... I love riding motorcycles and I'm obsessed with my Labradoodle.
+- ⚡ Fun fact ... I still skateboard.
 
 ## 📚 Tech Stack
 
